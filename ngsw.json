@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1558128928648,
+  "timestamp": 1558139370518,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,10 +10,10 @@
       "urls": [
         "/es2015-polyfills.c5dd28b362270c767b34.js",
         "/index.html",
-        "/main.a5b918429edc43e189e0.js",
+        "/main.9ea5c34e87ee03bb3dbd.js",
         "/polyfills.8bbb231b43165d65d357.js",
         "/runtime.26209474bfa8dc87a77c.js",
-        "/styles.b5cf77025f646a7da2ad.css"
+        "/styles.3d13b713470079b6c43f.css"
       ],
       "patterns": []
     },
@@ -61,11 +61,11 @@
     "/assets/images/google-play-badge.png": "42c89d9b3363322d6d1fa4ed871d80b63dca1b99",
     "/es2015-polyfills.c5dd28b362270c767b34.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
     "/favicon.png": "36c0958182399efded7bed82d517441d690f4cee",
-    "/index.html": "6f22d8ab7f519744620970141fafc2cb0c1a8d4f",
-    "/main.a5b918429edc43e189e0.js": "05c17477e5af75f7cbef7dae167ef490d8061231",
+    "/index.html": "df287835e0e60dd4dd976f98a3c6566ab96fc7d9",
+    "/main.9ea5c34e87ee03bb3dbd.js": "ec0b3989d1a6d7de0d4b1c49c2394e9aa6b6b3ab",
     "/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/styles.b5cf77025f646a7da2ad.css": "8ff8833c700be49015197dd9f805abf81be738e2"
+    "/styles.3d13b713470079b6c43f.css": "35da86ac83184f03c1ee52c86806df722a20d31f"
   },
   "navigationUrls": [
     {
